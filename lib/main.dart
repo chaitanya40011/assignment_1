@@ -87,7 +87,7 @@ class _Drawer extends StatelessWidget {
               color: Colors.blueGrey,
             ),
             child: Text(
-              'profile drawer',
+              'profile',
               style: TextStyle(color: Colors.white),
             ),
           ),
